@@ -1,0 +1,6 @@
+dash
+requests
+numpy
+pandas
+sklearn
+plotly
